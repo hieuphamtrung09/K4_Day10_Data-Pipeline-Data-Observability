@@ -1,0 +1,38 @@
+[
+  {
+    "corruption_type": "drop_latest_records",
+    "affected_count": 2,
+    "timestamp": "2026-08-06T09:44:13.347239+00:00",
+    "description": "Dropped top 2 newest records."
+  },
+  {
+    "corruption_type": "blank_summary",
+    "affected_count": 1,
+    "timestamp": "2026-08-06T09:44:13.359673+00:00",
+    "description": "Blanked summary for 1 records."
+  },
+  {
+    "corruption_type": "inject_noise",
+    "affected_count": 1,
+    "timestamp": "2026-08-06T09:44:13.367963+00:00",
+    "description": "Injected noise into summary for 1 records."
+  },
+  {
+    "corruption_type": "truncate_title",
+    "affected_count": 1,
+    "timestamp": "2026-08-06T09:44:13.370189+00:00",
+    "description": "Truncated title for 1 records."
+  },
+  {
+    "corruption_type": "stale_publication_date",
+    "affected_count": 2,
+    "timestamp": "2026-08-06T09:44:13.379680+00:00",
+    "description": "Made published date 3 years older for 2 records."
+  },
+  {
+    "corruption_type": "add_duplicates",
+    "affected_count": 3,
+    "timestamp": "2026-08-06T09:44:13.381798+00:00",
+    "description": "Added 3 duplicate rows."
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "samples": 10,
+  "retrieval_hit_rate": 0.90,
+  "mean_token_f1": 0.842,
+  "judge_accuracy": 0.90,
+  "mean_judge_score": 4.50,
+  "ragas": {
+    "answer_relevancy": 0.88,
+    "context_precision": 0.91,
+    "context_recall": 0.89,
+    "faithfulness": 0.93
+  }
+}
