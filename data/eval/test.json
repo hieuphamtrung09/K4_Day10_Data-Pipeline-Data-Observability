@@ -1,0 +1,16 @@
+[
+  {
+    "id": "q1",
+    "question_type": "factual",
+    "question": "Quy trình xử lý sự cố an ninh mạng gồm mấy bước?",
+    "ground_truth": "Quy trình xử lý sự cố an ninh mạng gồm 4 bước chính: Phân loại, Ngăn chặn, Khắc phục và Báo cáo.",
+    "ground_truth_doc_ids": ["doc_001"]
+  },
+  {
+    "id": "q2",
+    "question_type": "factual",
+    "question": "Thời hạn lưu trữ nhật ký hệ thống tối thiểu là bao nhiêu ngày?",
+    "ground_truth": "Thời hạn lưu trữ nhật ký hệ thống tối thiểu là 90 ngày theo quy định an toàn thông tin.",
+    "ground_truth_doc_ids": ["doc_002"]
+  }
+]
